@@ -1,0 +1,27 @@
+{
+  "format": "counter-vaz-release",
+  "version": "1.4.0",
+  "repository": "mirchall/CzVAZ",
+  "files": [
+    {
+      "name": "Counter-VAZ-Kurulum-1.4.0.exe",
+      "size": 274542132,
+      "sha256": "9b4e57270cc01aba9cee7cc050cb1bb1999e0979d2ae1118663b7b17032b3519"
+    },
+    {
+      "name": "Counter-VAZ-Kurulum-1.4.0.exe.blockmap",
+      "size": 287626,
+      "sha256": "e8e04327bf45425321a0a95427f96537f02bdb7dd65e0c7917be7677dfd2a60b"
+    },
+    {
+      "name": "Counter-VAZ.html",
+      "size": 242679870,
+      "sha256": "5fcd6aa932d20b7036ee85baa5472c4a81aa8b562896dcd2d3e8c8dace1a9c95"
+    },
+    {
+      "name": "latest.yml",
+      "size": 355,
+      "sha256": "7ab184c6af250b67a1238e1696151e95c1132ef8bad84425a0f53553aaea7bd2"
+    }
+  ]
+}
